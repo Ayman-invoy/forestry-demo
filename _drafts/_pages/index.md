@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Invoy College
+heading: Belkirk College
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -22,7 +22,7 @@ textline: |
 
   Ora et Labora
 hero_button:
-  text: Join
+  text: Learn More
   href: "/about"
 show_news: true
 menu:
